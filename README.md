@@ -11,13 +11,13 @@
 
 - 👯 I’m looking to collaborate on **Web Dev**
 
-- 👨‍💻 All of my projects are available at [https://atharva-patil-portfolio.netlify.app/](https://atharva-patil-portfolio.netlify.app/)
+- 👨‍💻 All of my projects are available [here](https://atharva-patil-portfolio.netlify.app/)
 
 - 💬 Ask me about **React**
 
 - 📫 How to reach me **atharva7275@gmail.com**
 
-- 📄 Know about my experiences [https://atharva-patil-portfolio.netlify.app/static/media/resume.df1ca2dfb9c943f2c73b.pdf](https://atharva-patil-portfolio.netlify.app/static/media/resume.df1ca2dfb9c943f2c73b.pdf)
+- 📄 Know about my experiences [here](https://atharva-patil-portfolio.netlify.app/static/media/resume.df1ca2dfb9c943f2c73b.pdf)
 
 &nbsp;&nbsp;<h3 align="center">Connect with me:</h3>
 <p align="center">
