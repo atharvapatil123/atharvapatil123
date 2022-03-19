@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/atharva30546695" target="blank"><img src="https://img.shields.io/twitter/follow/atharva30546695?logo=twitter&style=for-the-badge" alt="atharva30546695" /></a> </p>
 
-- 🔭 I’m currently working on **Machine Learning**
+- 🔭 I’m currently exploring  **Machine Learning**
 
 - 👯 I’m looking to collaborate on **Web Dev**
 
