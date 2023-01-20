@@ -17,7 +17,9 @@
 
 - 📫 How to reach me **atharva7275@gmail.com**
 
-- 📄 Know about my experiences [here](https://atharva-patil-portfolio.netlify.app/static/media/resume.df1ca2dfb9c943f2c73b.pdf)
+- 📄 Know about me [here](https://atharva-patil-portfolio.netlify.app/static/media/resume.df1ca2dfb9c943f2c73b.pdf)
+
+- 👨‍💻 Get to know about my experiences [here](https://medium.com/@atharva7275)
 
 &nbsp;&nbsp;<h3 align="center">Connect with me:</h3>
 <p align="center">
