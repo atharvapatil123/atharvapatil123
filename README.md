@@ -27,6 +27,7 @@
 <p align="center">
 <a href="https://twitter.com/atharva30546695" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="atharva30546695" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/atharva-patil-9476771a5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="atharva-patil-9476771a5" height="30" width="40" /></a>
+<a href="https://medium.com/@atharva7275" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="atharva7275" height="30" width="40" /></a>
 </p>&nbsp;&nbsp;
 
 <h3 align="center">Languages and Tools:</h3>
